@@ -1,51 +1,59 @@
-.back{
+.back {
     background-image: url('images/back.png');
     height: 100vh;
     background-repeat: no-repeat;
-    background-size: cover;   
+    background-size: cover;
 }
-.maincard{
+
+.maincard {
     display: flex;
     padding: 20px;
 }
-.lol{
+
+.lol {
     margin-bottom: 0;
     text-align: center;
     padding-left: 24px;
 }
-.a1logo{
+
+.a1logo {
     margin-left: 12%;
     letter-spacing: 3px;
     color: wheat;
     font-weight: bold;
 }
-.lia{
+
+.lia {
     margin-right: 50px;
 }
-.anav{
+
+.anav {
     color: white;
 }
-.cd1{
+
+.cd1 {
     background-color: white;
     width: 52%;
     position: absolute;
     border-radius: 50px;
     left: 24%;
-    top: 83%;
+    top: 72%;
     box-shadow: 5px 5px 8px gray
 }
-.cardimg{
+
+.cardimg {
     width: 95px;
     margin-left: 90px;
-    
 }
-.imgcard{
+
+.imgcard {
     display: flex;
     justify-content: space-around;
     text-align: center;
     margin-top: 30px;
 }
-.btnsee{
+
+.btnsee {
     background-color: white;
     color: black;
     padding: 3px 10px;
@@ -53,7 +61,8 @@
     font-size: 15px;
     border: 1px solid black;
 }
-.background2{
+
+.background2 {
     background-image: url('images/back2.png');
     height: 100vh;
     background-repeat: no-repeat;
