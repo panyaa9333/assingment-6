@@ -1,0 +1,62 @@
+.back{
+    background-image: url('images/back.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.maincard{
+    display: flex;
+    padding: 20px;
+}
+.lol{
+    margin-bottom: 0;
+    text-align: center;
+    padding-left: 24px;
+}
+.a1logo{
+    margin-left: 12%;
+    letter-spacing: 3px;
+    color: wheat;
+    font-weight: bold;
+}
+.lia{
+    margin-right: 50px;
+}
+.anav{
+    color: white;
+}
+.cd1{
+    background-color: white;
+    width: 52%;
+    position: absolute;
+    border-radius: 50px;
+    left: 24%;
+    top: 83%;
+    box-shadow: 5px 5px 8px gray
+}
+.cardimg{
+    width: 95px;
+    margin-left: 90px;
+    
+}
+.imgcard{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 30px;
+}
+.btnsee{
+    background-color: white;
+    color: black;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    border: 1px solid black;
+}
+.background2{
+    background-image: url('images/back2.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
